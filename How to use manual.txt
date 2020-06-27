@@ -1,0 +1,11 @@
+**********************************HOW TO USE*****************************************
+1st - Click on SelveloSoft.pyc
+2nd - It will start working
+
+How to Create a file using this software-
+When you will start the software 
+1st - Click create "New File"
+2nd - Now it will ask which type of file you want currently It supports
+HTML,JavaScript,Python and Text(New file extension will be added later)
+3rd - After selecting Write code or context and then name your file
+
